@@ -1,10 +1,10 @@
-##🎯 Adivinha Feito
+## 🎯 Adivinha Feito
 
 Um jogo simples de adivinhação em que você precisa descobrir um número secreto entre 1 e 100.
 
 Você tem 7 oportunidades para tentar acertar o número. A cada tentativa, o jogo informa se o número secreto é maior ou menor que o seu palpite.
 
-##🎮 Como funciona
+## 🎮 Como funciona
 O jogo escolhe aleatoriamente um número entre 1 e 100.
 Você tem 7 tentativas para descobrir o número.
 A cada palpite, o jogo informa se você deve tentar um número maior ou menor.
@@ -18,7 +18,7 @@ Se acabar as tentativas sem acertar, o jogo revela o número secreto. 😢
 🏆 Mensagem de vitória ao acertar
 💀 Revelação do número ao perder
 
-##🕹️ Exemplo de partida
+## 🕹️ Exemplo de partida
 🎯 Bem-vindo ao Adivinha Feito!
 
 Estou pensando em um número entre 1 e 100.
