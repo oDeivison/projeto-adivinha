@@ -23,4 +23,4 @@ while n != a:
 if c != 7:
     print(f'Você acertou com {c + 1} tentativas')
 
-
+#teste 
